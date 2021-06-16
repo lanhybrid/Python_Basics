@@ -1,2 +1,3 @@
 # Meus estudos de Python
-Fonte: python brasil
+- Curso em Video
+- Coursera Google
